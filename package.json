@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/mbalex99/chatsocketserver/issues"
   },
-  "homepage": "https://github.com/mbalex99/chatsocketserver#readme"
+  "homepage": "https://github.com/mbalex99/chatsocketserver#readme",
+  "dependencies": {
+    "express": "4.13.3",
+    "ws": "0.8.1"
+  }
 }
